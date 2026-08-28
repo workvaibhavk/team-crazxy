@@ -90,7 +90,7 @@ For the complete picture, projects, people and the team's current work are inten
 
 ### First source of truth
 
-**https://teamcrazxy.netlify.app/**
+**https://teamcrazxy.vercel.app/**
 
 The website is where the team's public identity lives.
 
@@ -157,7 +157,7 @@ Diploma in Computer Engineering
 
 ## Links
 
-**Team:** https://teamcrazxy.netlify.app/
+**Team:** https://teamcrazxy.vercel.app/
 
 **GitHub:** https://github.com/workvaibhavk
 
